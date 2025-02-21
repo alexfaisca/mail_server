@@ -1,0 +1,4 @@
+  app/
+  jail/
+  *.o
+  containerize
