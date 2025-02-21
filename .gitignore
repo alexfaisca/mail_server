@@ -1,4 +1,4 @@
-  app/
-  jail/
-  *.o
-  containerize
+app/
+jail/
+*.o
+containerize
